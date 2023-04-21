@@ -4,6 +4,8 @@ body{
   background-color: #18122B;
 }
 
+
+/* fix hero image */
 section#hero {
   background-image:  
   linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
